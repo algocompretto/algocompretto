@@ -23,6 +23,4 @@ I'm an Mining Engineering Undergrad Student🎓  at [@UFRGS](http://www.ufrgs.br
 - 📝 I write technical blogs and articles [here](https://explotatus.wordpress.com/)
 - 📙 Check out my [Resume](https://github.com/algocompretto/eu_gustavo/blob/main/CV.pdf)
 
-<details>
- 
 ![Profile Views](https://komarev.com/ghpvc/?username=algocompretto)
