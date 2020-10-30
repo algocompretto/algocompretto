@@ -9,7 +9,7 @@
 
 
 ### A little about me... 
-I'm an Mining Engineering Undergrad Student🎓  at [@UFRGS](http://www.ufrgs.br/ufrgs/inicial). I'm a **Tech Enthusiast 💻 ** passionate about learning and working with new tech and data. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an Mining Engineering Undergrad Student🎓  at [@UFRGS](http://www.ufrgs.br/ufrgs/inicial). I'm a Tech Enthusiast 💻 passionate about learning and working with new tech and data. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
