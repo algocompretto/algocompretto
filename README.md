@@ -1,23 +1,17 @@
-# Hello World, I am Gustavo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there 👋
 
-#### 📬 Find me at 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvscholze/)](https://www.linkedin.com/in/gstvscholze)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scholzegustavo@gmail.com)](mailto:defcon.sentinal95@gmail.com)
+### Who am i
+I am a <b>Data Analyst/Data Scientist</b> at Bateleur. and you can find me in Porto Alegre, Brazil. I mainly use <b>Python and R.</b>
+
+As a Data Analyst my passion is to translate data into valuable and comprehensible insights.
+
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algocompretto&layout=compact)
 
 
-### A little about me... 
-I'm an Mining Engineering Undergraduate Student🎓  at [@UFRGS](http://www.ufrgs.br/ufrgs/inicial). I'm a Tech Enthusiast 💻 passionate about learning and working with new tech and data. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-
-## ⚡️ A Few Quick Facts
-
-- 🌱 I’m currently learning Java
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Financial Analysis
-  - 🧠 Deep Learning and Neural Networks
-- 📝 Sometimes I write technical blogs and articles [here](https://sites.google.com/view/gustavoscholze/home)
-- 📙 Check out my [Resume](https://github.com/algocompretto/eu_gustavo/blob/main/CV.pdf)
+### 📬 Find me at 
+[<img src ="https://img.shields.io/badge/Website-073551?style=for-the-badge&logo=curl&logoColor=white" />](https://algocompretto.github.io)
+[<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:scholzegustavo@gmail.com)
+[<img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gstvscholze)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=algocompretto&style=flat-square&color=orange)
