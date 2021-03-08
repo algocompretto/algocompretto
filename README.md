@@ -5,8 +5,12 @@ I am a <b>Data Analyst/Data Scientist</b> at Bateleur. and you can find me in Po
 
 As a Data Analyst my passion is to translate data into valuable and comprehensible insights.
 
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algocompretto&layout=compact)
+<p align="center">
+  </br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algocompretto&hide=HTML&langs_count=4" />
+  </a>
+</p>
 
 
 ### 📬 Find me at 
