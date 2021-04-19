@@ -8,7 +8,7 @@ As a Data Analyst my passion is to translate data into valuable and comprehensib
 <p align="center">
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algocompretto&hide=HTML&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algocompretto&hide=HTML&langs_count=3" />
   </a>
 </p>
 
