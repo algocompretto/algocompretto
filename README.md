@@ -1,9 +1,7 @@
 # Hi there 👋
 
 ### Who am i
-I am a <b>Data Scientist</b> Intern at Bateleur. and you can find me in Porto Alegre, Brazil. I mainly use <b>Python and R.</b>
-
-As a Data Analyst my passion is to translate data into valuable and comprehensible insights.
+I am a <b>Machine Learning Assistant</b> at Instituto de Pesquisas Eldorado and you can find me in Porto Alegre, Brazil. I mainly use <b>Python!</b>
 
 <p align="center">
   </br>
