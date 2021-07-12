@@ -1,8 +1,5 @@
 # Hi there 👋
 
-### Who am i
-I am a <b>Machine Learning Assistant</b> at Instituto de Pesquisas Eldorado and you can find me in Porto Alegre, Brazil. I mainly use <b>Python!</b>
-
 <p align="center">
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
