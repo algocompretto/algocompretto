@@ -3,4 +3,4 @@
 
 software and mining engineering student. Currently
 i am learning more about algorithms for decision making,
-software development, computer vision and neural networks.
+computer vision and neural networks.
